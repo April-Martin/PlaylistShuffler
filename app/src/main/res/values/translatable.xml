@@ -134,6 +134,7 @@ THE SOFTWARE.
 	<string name="playlists">Playlists</string>
 	<string name="genres">Genres</string>
 	<string name="files">Files</string>
+	<string name="shufflelists">ShuffleList</string>
 
 	<string name="artist">Artist</string>
 	<string name="album">Album</string>

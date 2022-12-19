@@ -92,9 +92,15 @@ public class MediaUtils {
 	 */
 	public static final int TYPE_FILE = 7;
 	/**
+	 * Type indicating an id represents a composer
+	 */
+	public static final int TYPE_SHUFFLELIST = 8;
+
+	/**
 	 * The number of different valid media types.
 	 */
-	public static final int TYPE_COUNT = 8;
+
+	public static final int TYPE_COUNT = 9;
 
 	/**
 	 * The default sort order for media queries. First artist, then album, then
